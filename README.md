@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, and financial analytics.
 - 🌱 I’m currently learning Python for data analysis and deep learning techniques.
 - 💞️ I’m looking to collaborate on projects related to predictive modeling and data visualization.
-- 📫 How to reach me You can contact me via email at maryam@example.com or connect with me on LinkedIn at linkedin.com/in/maryam-tyb.
+- 📫 How to reach me You can contact me via email at maryam.tyb0101@gmail.com or connect with me on LinkedIn at linkedin.com/in/maryam-tayebi.
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I once hiked to the summit of Mount Damavand!
 
